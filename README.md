@@ -1,0 +1,1 @@
+Statistics is a fundamental aspect of data science and analytics. This repository aims to help learners and professionals alike by providing a collection of carefully selected questions that cover a wide range of statistical concepts. Each question is followed by a brief explanation and solution.
